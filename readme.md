@@ -51,7 +51,7 @@ Official Links from GitHub on Copilot
 - [The Truth about Github Copilot // AI Programming First Look](https://www.youtube.com/watch?v=4duqI8WyfqE)
 - [Github Copilot VSCode examples with Node ExpressJS, NestJS and Cucumber](https://www.youtube.com/watch?v=DlOQ-GzNlV0)
 - [Making a AI Generated Website with GitHub Copilot in 8 Minutes](https://www.youtube.com/watch?v=zaslz4myzE0)
-- [Learn Data Science from SCRATCH (with GitHub Copilot)(https://www.youtube.com/watch?v=C_0mtbAWNtQ)
+- [Learn Data Science from SCRATCH (with GitHub Copilot](https://www.youtube.com/watch?v=C_0mtbAWNtQ)
 
 ### Alternatives
 
