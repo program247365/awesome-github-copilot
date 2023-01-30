@@ -1,6 +1,6 @@
-# Awesome (Github Copilot)[https://github.com/features/copilot] [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome GitHub CoPilot [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of things regarding Github CoPilot
+> A curated list of things regarding [Github Copilot](https://github.com/features/copilot)
 
 ## Contents
 
