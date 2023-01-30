@@ -37,10 +37,13 @@ Official Links from GitHub on Copilot
 ## Cool Projects
 
 - [cpwrap - CoPilot plugin for any shell program](https://github.com/MarkMendell/cpwrap)
+- [CopilotForXcode - The missing Github Copilot Xcode Source Editor Extension](https://github.com/intitni/CopilotForXcode)
 
 ## Articles
 
+- [Copilot Internals](https://thakkarparth007.github.io/copilot-explorer/posts/copilot-internals.html)
 - [Using GitHub Copilot for Testing by Yannis](https://www.strictmode.io/articles/using-github-copilot-for-testing)
+- [Writing google terraform code with Github Copilot by Marko Vlahovic](https://medium.com/@markodevops/writing-google-terraform-code-with-github-copilot-78cfe51c0291)
 - [Is Github Copilot Worth Paying for??](https://www.youtube.com/watch?v=Eqkc33g60-k)
 - [Why I Added GitHub Copilot to My Toolbelt by Nathan Papes](https://spin.atomicobject.com/2023/01/30/github-copilot-toolbelt/)
 - [Github Copilot Brushes by Cristian Heilmann](https://christianheilmann.com/2022/12/13/code-brushes-for-github-copilot/)
