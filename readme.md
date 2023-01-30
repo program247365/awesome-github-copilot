@@ -14,6 +14,8 @@
 
 Official Links from GitHub on Copilot
 
+- [What is Copilot?](https://www.youtube.com/watch?v=IqXNhakuwVc)
+- [Level up with Copilot - Universe 2022](https://www.youtube.com/watch?v=inr1fFxvFAw)
 - [Docs](https://docs.github.com/en/copilot)
 - [QuickStart](https://docs.github.com/en/copilot/quickstart)
 - [GitHub Copilot is now available for invoiced GitHub Enterprise customers](https://github.blog/changelog/2022-12-07-github-copilot-is-now-available-for-invoiced-github-enterprise-customers)
@@ -36,12 +38,24 @@ Official Links from GitHub on Copilot
 
 ## Articles
 
-- [Using GitHub Copilot for Testing by Yannis](https://www.strictmode.io/articles/using-github-copilot-for-testing))
+- [Using GitHub Copilot for Testing by Yannis](https://www.strictmode.io/articles/using-github-copilot-for-testing)
+- [Is Github Copilot Worth Paying for??](https://www.youtube.com/watch?v=Eqkc33g60-k)
 - [Why I Added GitHub Copilot to My Toolbelt by Nathan Papes](https://spin.atomicobject.com/2023/01/30/github-copilot-toolbelt/)
 - [Github Copilot Brushes by Cristian Heilmann](https://christianheilmann.com/2022/12/13/code-brushes-for-github-copilot/)
 
+## Videos
+
+- [Github Copilot MAKES A CLI GAME IN GOLANG FROM SCRATCH?!?!](https://www.youtube.com/watch?v=Xw_qbJp52cY)
+- [GitHub Copilot CRUSHES Leetcode Interview Questions!](https://www.youtube.com/watch?v=FHwnrYm0mNc)
+- [Guido van Rossum on GitHub Copilot: It helps take care of the boring stuff | Lex Fridman](https://www.youtube.com/watch?v=_KjSkGgaJ1k)
+- [The Truth about Github Copilot // AI Programming First Look](https://www.youtube.com/watch?v=4duqI8WyfqE)
+- [Github Copilot VSCode examples with Node ExpressJS, NestJS and Cucumber](https://www.youtube.com/watch?v=DlOQ-GzNlV0)
+- [Making a AI Generated Website with GitHub Copilot in 8 Minutes](https://www.youtube.com/watch?v=zaslz4myzE0)
+- [Learn Data Science from SCRATCH (with GitHub Copilot)(https://www.youtube.com/watch?v=C_0mtbAWNtQ)
+
 ### Alternatives
 
+- [Captain Stack - Code suggestion for VSCode](https://github.com/hieunc229/copilot-clone)
 - [Faux Pilot](https://github.com/fauxpilot/fauxpilot)
 - [GPT Code Clippy](https://github.com/CodedotAl/gpt-code-clippy)
 - [Codeium: Free CoPilot Alternative for Vim / NeoVim](https://github.com/Exafunction/codeium.vim)
