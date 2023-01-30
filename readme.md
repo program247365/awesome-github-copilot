@@ -8,6 +8,8 @@
   - [Official Links](#official-links)
   - [Cool Projects](#cool-projects)
   - [Articles](#articles)
+  - [Videos](#videos)
+  - [Alternatives](#alternatives)
   - [Contribute](#contribute)
 
 ## Official Links
