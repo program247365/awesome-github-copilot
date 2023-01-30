@@ -1,4 +1,4 @@
-# Awesome Github Copilot[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Github Copilot [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of things regarding Github CoPilot
 
